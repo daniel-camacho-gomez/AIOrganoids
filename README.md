@@ -7,6 +7,8 @@ Physics-based model: agent-based lattice-free center-based model
 Data-driven model: neural network
 
 Developed by Daniel Camacho-Gomez, University of Zaragoza. E-mail: dcamacho@unizar.es danielcamachogomez@hotmail.com
+
+DOI: 10.5281/zenodo.8019619
 _____________________________________________________________________________________________________________
 
 # Description: 
