@@ -8,7 +8,7 @@ Data-driven model: neural network
 
 Developed by Daniel Camacho-Gomez, University of Zaragoza. E-mail: dcamacho@unizar.es danielcamachogomez@hotmail.com
 
-DOI: 10.5281/zenodo.8019619
+DOI: [10.5281/zenodo.8019619](https://doi.org/10.5281/zenodo.8019619)
 _____________________________________________________________________________________________________________
 
 # Description: 
